@@ -42,8 +42,8 @@ Scalable & Modular – Easy to extend with new tools and workflows.
 
 Clone the repo:
 ```
-git clone https://github.com/yourusername/studyspace.git
-cd studyspace
+git clone https://github.com/Bilal-251/StudySpace.git
+cd StudySpace
 ```
 
 Install dependencies:
