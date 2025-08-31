@@ -1,0 +1,13 @@
+langgraph 
+langchain-openai 
+langchain-core 
+chromadb 
+sentence-transformers 
+langchain_community 
+langchain-tavily 
+langchain-experimental 
+python-docx 
+python-pptx 
+yt-dlp 
+PyMuPDF
+python-dotenv
